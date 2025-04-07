@@ -219,7 +219,9 @@
       "description": "Character face swap with LoRA and embeddings."
     },
     "nodes": [],
-    "pip": [],
+    "pip": [
+      "facexlib"
+    ],
     "apt": [],
     "cached": "False"
   },
