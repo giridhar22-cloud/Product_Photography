@@ -3,5 +3,18 @@ models: models.json
 custom_nodes: custom_nodes.json
 user_models: user_models.json
 user_custom_nodes: user_custom_nodes.json
-workflows: []
-normal_workflows: []
+workflows:
+  - id: h49ma0t5oiw
+    name: professional_headshot_photo_api.json
+    file: product_photography/professional_headshot_photo_api.json
+    version: 0
+    description: ''
+    inputs: []
+    outputs: []
+    skip_preprocess: true
+    advancedConfig: false
+normal_workflows:
+  - id: r80zfn739tc
+    name: professional_headshot_photo.json
+    file: product_photography/professional_headshot_photo.json
+    version: 0
