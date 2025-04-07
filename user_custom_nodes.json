@@ -247,18 +247,6 @@
     "cached": "False"
   },
   {
-    "url": "https://github.com/chflame163/ComfyUI_LayerStyle.git",
-    "name": "ComfyUI_LayerStyle.git",
-    "path": "custom_nodes",
-    "fetch_type": "git-clone",
-    "details": {},
-    "nodes": [],
-    "pip": [],
-    "apt": [],
-    "sha": "",
-    "cached": "False"
-  },
-  {
     "url": "https://github.com/ShivaeAI/PS_ComfyUI_LayerStyle.git",
     "name": "PS_ComfyUI_LayerStyle.git",
     "path": "custom_nodes",
